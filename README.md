@@ -13,3 +13,5 @@ This tool takes complex geospatial coordinates and impact data and translates th
 
 ## Why this matters
 Visualizing planetary data in 2D often loses the scale and reality of the impact. By leveraging Three.js and WebGL, this project demonstrates how to handle spatial intelligence rendering in a 3D environment without overwhelming browser performance.
+
+**This project was listed as a global nominee - team name cluster warriors for nasa space apps challenge 2025**
